@@ -1,3 +1,5 @@
+//Giovanne Silveira Henrique
+
 const pessoas = [
   { nome: "Ana", idade: 17 },
   { nome: "João", idade: 21 },
