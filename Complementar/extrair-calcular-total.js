@@ -1,3 +1,5 @@
+//Giovanne Silveira Henrique
+
 const produtos = [
   { nome: "Camiseta", preco: 50, emPromocao: true },
   { nome: "Calça", preco: 100, emPromocao: false },
