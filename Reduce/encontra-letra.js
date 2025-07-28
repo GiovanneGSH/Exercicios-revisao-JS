@@ -1,3 +1,5 @@
+//Giovanne Silveira Henrique 
+
 const letras = ['a', 'b', 'a', 'c', 'b', 'a'];
 
 // Use .reduce para retornar um objeto com a contagem de cada letra.
