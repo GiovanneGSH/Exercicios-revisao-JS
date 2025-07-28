@@ -1,3 +1,6 @@
+//Giovanne Silveira Henrique
+
+
 const numeros = [1, 2, 3, 4, 5, 6];
 
 // 1. Use filter para pegar os pares
